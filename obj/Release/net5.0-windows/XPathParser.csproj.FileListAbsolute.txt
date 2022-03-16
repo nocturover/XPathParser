@@ -1,0 +1,17 @@
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\bin\Release\net5.0-windows\XPathParser.exe
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\bin\Release\net5.0-windows\XPathParser.deps.json
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\bin\Release\net5.0-windows\XPathParser.runtimeconfig.json
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\bin\Release\net5.0-windows\XPathParser.runtimeconfig.dev.json
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\bin\Release\net5.0-windows\XPathParser.dll
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\bin\Release\net5.0-windows\ref\XPathParser.dll
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\bin\Release\net5.0-windows\XPathParser.pdb
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\XPathParser.XPathParserForm.resources
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\XPathParser.csproj.GenerateResource.cache
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\XPathParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\XPathParser.AssemblyInfoInputs.cache
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\XPathParser.AssemblyInfo.cs
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\XPathParser.csproj.CoreCompileInputs.cache
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\XPathParser.dll
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\ref\XPathParser.dll
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\XPathParser.pdb
+C:\Nocturover\Project\UNITTEST_Selenium\XPathParser\obj\Release\net5.0-windows\XPathParser.genruntimeconfig.cache
