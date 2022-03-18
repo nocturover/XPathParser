@@ -8,20 +8,28 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pi623\\.nuget\\packages\\": {}
+    "C:\\Users\\AS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nocturover\\Project\\UNITTEST_Selenium\\XPathParser\\XPathParser.csproj",
+      "projectUniqueName": "C:\\Nocturover\\Project\\XPathParser\\XPathParser.csproj",
       "projectName": "XPathParser",
-      "projectPath": "C:\\Nocturover\\Project\\UNITTEST_Selenium\\XPathParser\\XPathParser.csproj",
-      "packagesPath": "C:\\Users\\pi623\\.nuget\\packages\\",
-      "outputPath": "C:\\Nocturover\\Project\\UNITTEST_Selenium\\XPathParser\\obj\\",
+      "projectPath": "C:\\Nocturover\\Project\\XPathParser\\XPathParser.csproj",
+      "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
+      "outputPath": "C:\\Nocturover\\Project\\XPathParser\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\pi623\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\AS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0-windows7.0"
@@ -55,6 +63,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -63,7 +77,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

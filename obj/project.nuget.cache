@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UAblTyuSDk2/Eckgh68/FRnfdG1MmqtCg4SBxu2/o5FzJEKrNrxYw2/8Kj/de1xjYPD+33YbdapL/epoUYPWNg==",
+  "dgSpecHash": "vXMiQ4RQ61YEW6AaqlOyKGuMbVDHKh5W9M72q92ybdI3Tpb6EXgSOUUK5UUAh6mlXm+7oPB6v4Bg3spVGBLtpA==",
   "success": true,
-  "projectFilePath": "C:\\Nocturover\\Project\\UNITTEST_Selenium\\XPathParser\\XPathParser.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Nocturover\\Project\\XPathParser\\XPathParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
